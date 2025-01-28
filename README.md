@@ -5,7 +5,7 @@ This project, created for a friendly competition held by the **Data Science Asso
 
 ---
 
-## 🗂 Project Structure
+##  Project Structure
 
 ### **Key Files**
 - `spotify-2023.csv`: Dataset containing information about songs, their streams, and features such as BPM, key, mode, and more.
@@ -29,7 +29,7 @@ The dataset `spotify-2023.csv` contains information on songs streamed on Spotify
 ### Detailed Data Set is in the folder.
 
 
-## 🔄 Data Cleaning and Transformation
+##  Data Cleaning and Transformation
 
 1. **Cleaning**
    - Renamed column names to **snake_case** for consistency.
@@ -46,7 +46,7 @@ The dataset `spotify-2023.csv` contains information on songs streamed on Spotify
 
 ---
 
-## 📈 Data Visualization
+##  Data Visualization
 
 The project visualizes trends in music streams over different time periods and compares **Major** vs. **Minor** modes. Visualizations were created using the **`ggplot2`** and **`patchwork`** libraries.
 
@@ -72,8 +72,7 @@ The project visualizes trends in music streams over different time periods and c
    - Compared Major and Minor modes across decades.
    - Observed increasing diversity in popular music.
 
-### Output Example:
-![Streaming Trends](plots/streaming_trends.png)
+
 
 
 
