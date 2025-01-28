@@ -8,14 +8,9 @@ This project, created for a friendly competition held by the **Data Science Asso
 ##  Project Structure
 
 ### **Key Files**
-- `spotify-2023.csv`: Dataset containing information about songs, their streams, and features such as BPM, key, mode, and more.
-- `stream_trends_analysis.R`: R script used for cleaning, transforming, and visualizing the data.
+- `spotify.csv`: Dataset containing information about songs, their streams, and features such as BPM, key, mode, and more.
+- `plotoff.R`: R script used for cleaning, transforming, and visualizing the data.
 - `README.md`: Project documentation.
-
-### **Key Folders**
-- **`data/`**: Contains the dataset used for this project.
-- **`plots/`**: Generated visualizations, including stream trends over time.
-
 ---
 
 ## Dataset Overview
